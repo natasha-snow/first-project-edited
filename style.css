@@ -195,7 +195,6 @@ hr::after {
 .name {
   opacity: 0.7;
    background-color: #fbf1f1;
-   display: flex;
 }
 
 .name p {
