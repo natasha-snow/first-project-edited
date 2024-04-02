@@ -194,11 +194,7 @@ hr::after {
 
 .name {
   opacity: 0.7;
-  background: linear-gradient(
-    90deg #fbf1f1 12%,
-    rgba(138, 40, 22, 0.9) 75%,
-    #fbf1f1 12.9%
-  );
+   background-color: #fbf1f1
 }
 
 .name p {
